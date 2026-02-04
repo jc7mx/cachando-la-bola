@@ -10,13 +10,3 @@ tags: ["Milano-Cortina 2026", "Mexicanos"]
 (Este texto lo escribiré con calma después.)
 
 ## Patinaje artístico
-
-## Curling
-
-## Hockey
-
-## Biatlón
-
-## Patinaje de velocidad
-
-## Bobsleigh
