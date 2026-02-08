@@ -1,7 +1,7 @@
 ---
 title: "En sus marcas, listos... ¡Arrancamos el blog!"
 description: "Bienvenidos a 'Cachando la bola' con JC. Un espacio para hablar de la magia, emoción y pasión por los deportes."
-pubDate: 2026-02-05
+pubDate: 2026-02-05T12:00:00
 category: "General"
 tags: ["bienvenida", "deportes", "comunidad"]
 ---
