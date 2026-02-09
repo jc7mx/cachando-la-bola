@@ -7,6 +7,5 @@ tags: ["Milano-Cortina 2026", "Mexicanos"]
 ---
 
 ## Introducción
-(Este texto lo escribiré con calma después.)
+Hola, en esta página vamos a dar un resumen del seguimiento a los mexicanos que estarán compitiendo en [Milano-Cortina 2026](https://en.wikipedia.org/wiki/2026_Winter_Olympics).
 
-## Patinaje artístico
