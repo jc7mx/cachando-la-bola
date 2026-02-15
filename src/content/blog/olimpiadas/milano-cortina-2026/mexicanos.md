@@ -2,6 +2,8 @@
 title: "Mexicanos en Milano–Cortina 2026"
 description: "Seguimiento y reflexiones sobre la participación mexicana en los Juegos Olímpicos de Invierno, Milano-Cortina 2026."
 pubDate: 2026-02-06T12:00:00
+slug: "olimpiadas/mexicanos-en-olimpiadas-milano-cortina-2026"
+draft: true
 category: "Olimpiadas"
 tags: ["Milano-Cortina 2026", "Mexicanos"]
 ---
