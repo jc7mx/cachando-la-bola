@@ -8,7 +8,7 @@ import Header from '../components/Header.astro';
 
 type Props = CollectionEntry<'blog'>['data'] & { heroImageAlt?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, heroImageAlt } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author } = Astro.props;
 ---
 
 <html lang="es">
@@ -52,6 +52,15 @@ const { title, description, pubDate, updatedDate, heroImage, heroImageAlt } = As
 			.last-updated-on {
 				font-style: italic;
 			}
+			/* Estilo del Autor */
+			.byline {
+				display: block;
+				margin-top: 0.5em;
+				font-size: 1em;
+				color: rgb(var(--gray));
+				font-weight: 500;
+				font-style: italic; 
+			}
 		</style>
 	</head>
 
@@ -69,11 +78,16 @@ const { title, description, pubDate, updatedDate, heroImage, heroImageAlt } = As
 							{
 								updatedDate && (
 									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
+										Actualizado el <FormattedDate date={updatedDate} />
 									</div>
 								)
 							}
 						</div>
+						
+						<div class="byline">
+							Por <span>{author}</span>
+						</div>
+						
 						<h1>{title}</h1>
 						<hr />
 					</div>
