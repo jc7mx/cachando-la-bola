@@ -8,7 +8,7 @@ category: "General"
 tags: ["bienvenida", "deportes", "comunidad"]
 ---
 
-Hola queridos lectores, después de pensarlo mucho durante algún tiempo, le estamos dando el banderazo de salida a "Cachando la bola", un espacio donde quisiera poder expresar mi pasión por los eventos deportivos, siendo el fútbol mi deporte favorito, pero no por eso no siento emoción y pasión por otros eventos como el Super Bowl de la NFL, y los Juegos Olímpicos, que para mí es el mayor evento deportivo de todos, luego en otro post platicaremos el por qué lo pienso.
+Hola queridos lectores, después de pensarlo mucho durante algún tiempo, le estamos dando el banderazo de salida a "*Cachando la bola*", un espacio donde quisiera poder expresar mi pasión por los eventos deportivos, siendo el fútbol mi deporte favorito, pero no por eso no siento emoción y pasión por otros eventos como el Super Bowl de la NFL, y los Juegos Olímpicos, que para mí es el mayor evento deportivo de todos, luego en otro post platicaremos el por qué lo pienso.
 
 Ustedes no saben, pero fui muy desidioso con levantar este proyecto, siempre encontraba una excusa para no iniciarlo, principalmente flojera, o que le pusiera más prioridad a cosas como ver la televisión o estar en el celular dando scroll a alguna red social. Pero hace unos días dije "no más" y empecé, con la ayuda de *ChatGPT* y *Google Gemini* para que me ayudaran con la estructura y herramientas.
 
