@@ -7,7 +7,11 @@ import rehypeExternalLinks from 'rehype-external-links';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://example.com',
+    // Se define el sitio real (importante para SEO y sitemap)
+    site: 'https://cachandolabola.com',
+    devToolbar: {
+        enabled: false
+    },
     integrations: [mdx(), sitemap()],
     // Markdown configuration
     markdown: {
