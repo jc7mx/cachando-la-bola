@@ -16,7 +16,7 @@ Para entorno de desarrollo de software utilicé solamente una [*Raspberry Pi 5*]
 
 **¿Por qué "Cachando la Bola"?** Es algo que se le ocurrió a mi esposa en una plática, comentándome que debería hablar de deportes en un sitio con el nombre de "*Cachando la Bola con JC*", así que aquí estoy, ¡gracias a mi esposa por impulsarme! 😊
 
-Y es que si me gustan los deportes, es algo que me gusta mucho y hay varios que me apasionan, sin embargo, no soy un analista profesional, no estudie periodismo o comunicación, soy un ingeniero de software como comento en el "Acerca de" del sitio.
+Y es que si me gustan los deportes, es algo que me gusta mucho y hay varios que me apasionan, sin embargo, no soy un analista profesional, no estudie periodismo o comunicación, soy un ingeniero de software al que le apasionan los deportes 😀.
 
 ¿Sobre cuáles deportes pueden esperar que este escribiendo? Principalmente y de inicio de lo que me gusta, que son fútbol, fútbol americano (ahí viene en unos días el Super Bowl LX), me gusta ver la Serie Mundial de Beisbol de la MLB con mi papá (el famoso "*Clásico de Otoño*"), me encantan los Juegos Olímpicos (tanto de verano como de invierno), y reciéntemente me está interesando la Fórmula 1 (aunque apenas estoy empezando a aprender).
 
