@@ -8,7 +8,7 @@ import rehypeExternalLinks from 'rehype-external-links';
 // https://astro.build/config
 export default defineConfig({
     // Se define el sitio real (importante para SEO y sitemap)
-    site: 'https://cachandolabola.com',
+    site: 'https://www.cachandolabola.com',
     devToolbar: {
         enabled: false
     },
