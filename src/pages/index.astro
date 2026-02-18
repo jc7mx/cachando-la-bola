@@ -8,12 +8,14 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { Image } from 'astro:assets';
 // Importamos el logo (el archivo debe estar en src/assets/)
 import blogLogo from '../assets/logo-deportes-cachando-la-bola.webp';
+// Importamos el banner (porrtada)
+import coverImage from '../assets/portada-cachando-la-bola-deportes.webp';
 ---
 
 <!doctype html>
 <html lang="es">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} image={coverImage} />
 	</head>
 	<body>
 		<Header />
